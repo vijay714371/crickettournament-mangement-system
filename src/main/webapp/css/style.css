@@ -1,0 +1,8 @@
+.purple {
+	background: #673ab7;
+}
+
+.banner-background {
+	clip-path: polygon(50% 0%, 100% 0, 100% 35%, 100% 100%, 80% 90%, 50% 100%, 20% 90%,
+		0 100%, 0 0, 23% 0);
+}
